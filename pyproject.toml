@@ -1,0 +1,18 @@
+[project]
+name = "api-bancaria"
+version = "0.1.0"
+description = "API do desafio da DIO"
+authors = [
+    {name = "Roberto Bressanelli",email = "rbressanelli@gmail.com"}
+]
+license = {text = "GNU"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi (>=0.135.3,<0.136.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
