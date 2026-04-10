@@ -11,6 +11,9 @@ API RESTful assíncrona desenvolvida com **FastAPI** para gerenciamento de opera
 
 O projeto foi estruturado seguindo boas práticas de organização, com separação de rotas, uso de variáveis de ambiente, autenticação e documentação automática com OpenAPI.
 
+Deploy na fastapi cloud no seguinte endereço:
+<a href="https://api-bancaria-56dcb982.fastapicloud.dev/">API Bancária</a>
+
 ---
 
 ## 🚀 O que a aplicação faz
