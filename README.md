@@ -187,12 +187,12 @@ A aplicação possui validações para garantir a integridade das operações ba
 
 Exemplo de .env.example:
 
-APP_NAME=API Bancária
-APP_VERSION=1.0.0
-SECRET_KEY=sua_chave_secreta_aqui
-ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=60
-DATABASE_URL=sqlite+aiosqlite:///./bank.db
+APP_NAME=API Bancária<br>
+APP_VERSION=1.0.0<br>
+SECRET_KEY=sua_chave_secreta_aqui<br>
+ALGORITHM=HS256<br>
+ACCESS_TOKEN_EXPIRE_MINUTES=60<br>
+DATABASE_URL=sqlite+aiosqlite:///./bank.db<br>
 
 
 # 🧹 .gitignore
